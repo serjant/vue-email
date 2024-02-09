@@ -27,7 +27,7 @@
     "email"
   ],
   "dependencies": {
-    "html-to-text": "^9.0.5",
+    "html-to-text": "^8.0.0",
     "pretty": "^2.0.0",
     "vue": "^3.3.4"
   },
